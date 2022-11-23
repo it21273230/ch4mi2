@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<!-- holopins -->
+[![@ch4mi2's Holopin board](https://holopin.me/ch4mi2)](https://holopin.io/@ch4mi2)
+
+<!-- credly -->
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fb9480a5-6d66-4d41-b96b-d21fd563bc0b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <!--
 **ch4mi2/ch4mi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
